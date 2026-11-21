@@ -1,0 +1,40 @@
+Package: omnicalc
+Version: 3.18.2-1
+Architecture: amd64
+Maintainer: OmniCalc <noreply@github.com>
+Installed-Size: 219474
+Depends: libc6 (>= 2.43), libfontconfig1, libfreetype6, libxkbcommon0, libxkbcommon-x11-0, libxcb-cursor0, libxcb-icccm4, libxcb-keysyms1, libegl1, libgl1, hicolor-icon-theme
+Filename: ./omnicalc-3.18.2-1.ubuntu.amd64.deb
+Size: 74209608
+MD5sum: f27c12d75ef94e11f0faa8e39fa98b04
+SHA1: 116d69413cca84458abdf038ab78efe7d248f843
+SHA256: d260d33f502ff90ce04da411738a2667099607082c85ef6f4341b935162e0153
+Section: math
+Priority: optional
+Homepage: https://mjsapps.net/omnicalc/
+Description: Scientific, engineering, financial and networking calculator
+ OmniCalc is a friendly desktop calculator: scientific calculator and
+ graphing, math tools, loans and home costs, finance, a retirement planner,
+ a budget, physics, chemistry, engineering, programmer and networking
+ tools, health, dates, unit conversion and statistics.
+
+Package: omnicalc
+Version: 3.18.2-1
+Architecture: arm64
+Maintainer: OmniCalc <noreply@github.com>
+Installed-Size: 224851
+Depends: libc6 (>= 2.43), libfontconfig1, libfreetype6, libxkbcommon0, libxkbcommon-x11-0, libxcb-cursor0, libxcb-icccm4, libxcb-keysyms1, libegl1, libgl1, hicolor-icon-theme
+Filename: ./omnicalc-3.18.2-1.ubuntu.arm64.deb
+Size: 70595164
+MD5sum: 6fa06b253e105c2899733cc85655236d
+SHA1: 4aacefd1b2736c3ee19960fe05a43c15e0355f8f
+SHA256: 094772218f316abf70b726cf122627165d117d93391d9e786cd72159948dc79a
+Section: math
+Priority: optional
+Homepage: https://mjsapps.net/omnicalc/
+Description: Scientific, engineering, financial and networking calculator
+ OmniCalc is a friendly desktop calculator: scientific calculator and
+ graphing, math tools, loans and home costs, finance, a retirement planner,
+ a budget, physics, chemistry, engineering, programmer and networking
+ tools, health, dates, unit conversion and statistics.
+

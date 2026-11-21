@@ -1,0 +1,7 @@
+[omnicalc]
+name=OmniCalc
+baseurl=https://msanty573.github.io/OmniCalc-Downloads/rpm/el10/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=https://msanty573.github.io/OmniCalc-Downloads/RPM-GPG-KEY-omnicalc
+metadata_expire=6h

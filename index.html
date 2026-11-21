@@ -1,0 +1,22 @@
+<!doctype html>
+<meta charset="utf-8"><title>OmniCalc repositories</title>
+<h1>OmniCalc package repositories</h1>
+<h2>dnf (RHEL, AlmaLinux, Rocky, Fedora)</h2>
+<ul>
+<li>OmniCalc 3.18.2 (el10, 64-bit ARM)</li>
+<li>OmniCalc 3.18.2 (el10, 64-bit Intel/AMD)</li>
+</ul>
+<p>Add the repository once, then OmniCalc updates with the rest of the system:</p>
+<pre>sudo rpm --import https://msanty573.github.io/OmniCalc-Downloads/RPM-GPG-KEY-omnicalc
+sudo curl -o /etc/yum.repos.d/omnicalc.repo https://msanty573.github.io/OmniCalc-Downloads/omnicalc.repo
+sudo dnf install omnicalc</pre>
+<h2>apt (Ubuntu 26.04 and newer)</h2>
+<ul>
+<li>OmniCalc 3.18.2 (64-bit Intel/AMD)</li>
+<li>OmniCalc 3.18.2 (64-bit ARM)</li>
+</ul>
+<p>Installing the package also adds this repository, so OmniCalc then updates with
+the rest of the system:</p>
+<pre>wget https://github.com/msanty573/OmniCalc-Downloads/releases/download/latest/omnicalc.ubuntu.$(dpkg --print-architecture).deb
+sudo apt install ./omnicalc.ubuntu.*.deb</pre>
+<p>More downloads: <a href="https://mjsapps.net/omnicalc/">mjsapps.net/omnicalc</a></p>

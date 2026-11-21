@@ -1,0 +1,11 @@
+Origin: OmniCalc
+Label: OmniCalc
+Date: Sat, 21 Nov 2026 00:09:56 UTC
+Architectures: amd64 arm64
+Description: OmniCalc apt repository
+MD5Sum:
+ 31c263f5af3b1e766d0de6c7d124133d 1876 Packages
+ 774c9980a6d6dcb9097397237358ef76 734 Packages.gz
+SHA256:
+ 67cda7fd27e29ee43b85fdc738875a8b45921f6b93f68f4a2f58c418857b1f56 1876 Packages
+ b264548773ddd691b95f562246f3e6f539664e295e8a48a0c1bcd8d48bf184de 734 Packages.gz
