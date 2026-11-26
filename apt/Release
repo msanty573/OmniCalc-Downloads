@@ -1,0 +1,11 @@
+Origin: MJSCalc
+Label: MJSCalc
+Date: Thu, 26 Nov 2026 03:40:46 UTC
+Architectures: amd64 arm64
+Description: MJSCalc apt repository
+MD5Sum:
+ 90a30ca6b051b3b551240bb934dd944d 3168 Packages
+ 964ae64881a5fd5c36ba1231149a77dd 1072 Packages.gz
+SHA256:
+ 4a804a00debc57bd95b4f1fc9b31a36a1d266c873bb27f3633f82edf742d7295 3168 Packages
+ 706fcc0465a0f016bdf52ccb545ebe59327a828df78861837b232bf70d737ee1 1072 Packages.gz

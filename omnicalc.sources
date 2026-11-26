@@ -1,0 +1,4 @@
+Types: deb
+URIs: https://msanty573.github.io/OmniCalc-Downloads/apt/
+Suites: ./
+Signed-By: /usr/share/keyrings/omnicalc-archive-keyring.gpg

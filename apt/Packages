@@ -1,0 +1,76 @@
+Package: mjscalc
+Version: 3.19.2-1
+Architecture: arm64
+Maintainer: MJS Applications <support@mjsapps.net>
+Installed-Size: 224099
+Depends: libc6 (>= 2.43), libfontconfig1, libfreetype6, libxkbcommon0, libxkbcommon-x11-0, libxcb-cursor0, libxcb-icccm4, libxcb-keysyms1, libegl1, libgl1, hicolor-icon-theme
+Breaks: omnicalc (<< 3.19.2-1)
+Replaces: omnicalc (<< 3.19.2-1)
+Filename: ./mjscalc-3.19.2-1.ubuntu.arm64.deb
+Size: 70255360
+MD5sum: 93450f326b9c772802d4660dfc15f9b5
+SHA1: 66f468f39beed009e3530646d101e0f95aff452d
+SHA256: 83d670ed4e8b53356b6dfbf0cb9fffc8a72245cf0e9830d95964b2b3b9f57679
+Section: math
+Priority: optional
+Homepage: https://mjsapps.net/mjscalc/
+Description: Scientific, engineering, financial and networking calculator
+ MJSCalc is a friendly desktop calculator: scientific calculator and
+ graphing, math tools, loans and home costs, finance, a retirement planner,
+ a budget, physics, chemistry, engineering, programmer and networking
+ tools, health, dates, unit conversion and statistics.
+
+Package: mjscalc
+Version: 3.19.2-1
+Architecture: amd64
+Maintainer: MJS Applications <support@mjsapps.net>
+Installed-Size: 218721
+Depends: libc6 (>= 2.43), libfontconfig1, libfreetype6, libxkbcommon0, libxkbcommon-x11-0, libxcb-cursor0, libxcb-icccm4, libxcb-keysyms1, libegl1, libgl1, hicolor-icon-theme
+Breaks: omnicalc (<< 3.19.2-1)
+Replaces: omnicalc (<< 3.19.2-1)
+Filename: ./mjscalc-3.19.2-1.ubuntu.amd64.deb
+Size: 73881912
+MD5sum: c0515abde187a4ef6c1295fddb900883
+SHA1: 29ddaefb347cf23cf73b4f644ec6b14ff1ea36c6
+SHA256: db73b7d2c4c969514b4e89d7a5e1eb9866697c6d5b5f0e157534a508b789dd80
+Section: math
+Priority: optional
+Homepage: https://mjsapps.net/mjscalc/
+Description: Scientific, engineering, financial and networking calculator
+ MJSCalc is a friendly desktop calculator: scientific calculator and
+ graphing, math tools, loans and home costs, finance, a retirement planner,
+ a budget, physics, chemistry, engineering, programmer and networking
+ tools, health, dates, unit conversion and statistics.
+
+Package: omnicalc
+Version: 3.19.2-1
+Architecture: arm64
+Maintainer: MJS Applications <support@mjsapps.net>
+Depends: mjscalc (= 3.19.2-1)
+Filename: ./omnicalc-3.19.2-1.ubuntu.arm64.deb
+Size: 804
+MD5sum: 0394411f3fc35f9d4c97ae459c265d0a
+SHA1: 4c05dcfa588484ecb897556f60ed8236996fdf55
+SHA256: 6a206041e032f361f646901da03af250ee39c39a7571dd57836e84bea6190aef
+Section: oldlibs
+Priority: optional
+Homepage: https://mjsapps.net/mjscalc/
+Description: transitional package: OmniCalc is now MJSCalc
+ OmniCalc was renamed MJSCalc. This empty package installs MJSCalc and can be removed.
+
+Package: omnicalc
+Version: 3.19.2-1
+Architecture: amd64
+Maintainer: MJS Applications <support@mjsapps.net>
+Depends: mjscalc (= 3.19.2-1)
+Filename: ./omnicalc-3.19.2-1.ubuntu.amd64.deb
+Size: 804
+MD5sum: 2708bef82ff19944a219a4bd8a3c78b2
+SHA1: f6c0fc7b799188f367b6a6495ecd04ab286a79fb
+SHA256: a00b9bb34bc237bbf2bb4563a51c4f3226a7d96b4f4a87399f7f2dcd367ecf65
+Section: oldlibs
+Priority: optional
+Homepage: https://mjsapps.net/mjscalc/
+Description: transitional package: OmniCalc is now MJSCalc
+ OmniCalc was renamed MJSCalc. This empty package installs MJSCalc and can be removed.
+

@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MJSCalc
+Label: MJSCalc
+Date: Thu, 26 Nov 2026 03:40:46 UTC
+Architectures: amd64 arm64
+Description: MJSCalc apt repository
+MD5Sum:
+ 90a30ca6b051b3b551240bb934dd944d 3168 Packages
+ 964ae64881a5fd5c36ba1231149a77dd 1072 Packages.gz
+SHA256:
+ 4a804a00debc57bd95b4f1fc9b31a36a1d266c873bb27f3633f82edf742d7295 3168 Packages
+ 706fcc0465a0f016bdf52ccb545ebe59327a828df78861837b232bf70d737ee1 1072 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzlbfRHdQ/yvFytwwL9CJYVdX0xkFAmsHqj4ACgkQL9CJYVdX
+0xlgFQ/+MDNLqpE//UOLsHMaskSESzCihi2j1izdRjCsKdmUL1564FhlMhPEdIen
+uh/OYLkxAlNjMyO5QiB/PX/yHywB2E0k6aQ2UZbkxgsh/DNSviP/TUOsGunkMS7a
+pt/I5w3xNgGZI7DytecZpNThc0Ed3qfWq+s3C5ksdNvHMM3wMYoEcaOglN1zt7h9
+bqA42516dw41czRNLOh9o+NjryczQvFNcx67L6c2EUrgobxP/xmtfIcyIt03Y7Bg
+v46tSwTBOVZxVC4b21WUPptg5Wj55QK8A5veUwvZ69WIKGztrI1yZlXbnoEamPfI
+Frk38MKOLzvLkvsJNDBEp/tb3ZwxeZaYX+ldvasSe9PtMhX/aAOH47SfxCAgFXGZ
+WQBVjExcQ1rLKOKDAmXzlyVisf+MrXkNj7D6EHlkxOdIswvhpU2mj12r0yyyll1y
+roCUhDVBELCEfxch7MawsFS3Wgeiwmc+FwlSnBfm5ZAxtpWfEnvnB76NB/pYmsrZ
+bvb8Me0hVoaocR/zVPIkihKcp1okAnQi1QRfK111q+s6O9+IFeogXZ4Bvgt86uDw
+P0uIdZ2INvg/LjW7gtgzEM+vM2HO62l5sYjNG4EPAWzWG6AkPEcX324FyCPof+ay
+HrNNpC6TT0oXIfynj8QWimY2kiR9NYderH/P0s0dUcZ0c2ItwZY=
+=If0R
+-----END PGP SIGNATURE-----
